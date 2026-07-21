@@ -72,11 +72,19 @@ Built and validated on a synthetic-but-realistic corpus for **Meridian**, a fict
 >
 > Traces the policy from its 2023-03-15 origin (PostgreSQL 12 minimum, self-hosted deployments unsupported by engineering) through a 2023-10-20 update that formally raised the minimum to PostgreSQL 14 — retroactively validating informal guidance some CS agents had already been giving customers. Flags an unresolved gap: the original policy document was never updated, so anyone still reading it gets outdated information. Every line cites its source document and page.
 
+<p float="center">
+  <img src="output-01-evolution-trace.png" width="380" alt="Evolution Trace">
+</p>
+
 ### Example output — Contradiction Analysis
 
 > **Q: What is the Enterprise SLA, and is it being met?**
 >
 > Official policy states a 48-hour first-response SLA for Enterprise accounts, confirmed identically across two separate documents seven months apart. A community support thread reports tickets consistently exceeding that window — a live, unresolved conflict between official knowledge and operational reality, surfaced automatically rather than requiring someone to notice it by hand.
+
+<p float="center">
+  <img src="Output-04- contradiction.png" width="380" alt="Contradiction">
+</p>
 
 Both outputs above are structured evidence pulled directly from the graph — not generated prose, and not shortened for this README.
 
