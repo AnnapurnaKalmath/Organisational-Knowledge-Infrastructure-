@@ -33,7 +33,7 @@ The failure was never missing information. It's the loss of organizational conte
 
 ## Architecture
 
-<img src="okg-assets/architecture-diagram.png" width="500" alt="Pipeline: organizational artifacts to claim extraction to relationship construction to two-layer graph to query layer to outputs">
+<img src="architecture-diagram.png" width="500" alt="Pipeline: organizational artifacts to claim extraction to relationship construction to two-layer graph to query layer to outputs">
 
 Organizational artifacts — policies, ADRs, tickets, postmortems, support threads — are transformed into **claims**: atomic, falsifiable, traceable statements, not documents. Claims become graph nodes; relationships (governs, supersedes, includes, contradicts, confirms) are constructed between them from organizational context.
 
@@ -60,8 +60,8 @@ A core design constraint: **non-compression retrieval**. Every statement in an o
 Built and validated on a synthetic-but-realistic corpus for **Meridian**, a fictional B2B developer-observability company, deliberately constructed to contain policy evolution, cross-functional inconsistency, and operational drift. Three document sets in, **150+ nodes and 170+ typed relationships** out.
 
 <p float="left">
-  <img src="okg-assets/graph-view-1.png" width="380" alt="Hierarchical view of the organizational knowledge graph">
-  <img src="okg-assets/graph-view-2.png" width="380" alt="Traversal view showing typed relationships between nodes">
+  <img src="graph-view-1.png" width="380" alt="Hierarchical view of the organizational knowledge graph">
+  <img src="graph-view-2.png" width="380" alt="Traversal view showing typed relationships between nodes">
 </p>
 
 *The knowledge graph in Meridian's workspace — policies, decisions, and procedures connected by typed, traceable relationships rather than flattened into embeddings.*
