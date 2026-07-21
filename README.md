@@ -83,19 +83,19 @@ Built and validated on a synthetic-but-realistic corpus for **Meridian**, a fict
 > Official policy states a 48-hour first-response SLA for Enterprise accounts, confirmed identically across two separate documents seven months apart. A community support thread reports tickets consistently exceeding that window — a live, unresolved conflict between official knowledge and operational reality, surfaced automatically rather than requiring someone to notice it by hand.
 
 <p float="center">
-  <img src="Output-04- contradiction.png" width="380" alt="Contradiction">
+  <img src="output-04-contradiction.png" width="380" alt="Contradiction">
 </p>
 
 Other Outputs:
 ### Knowledge Brief Output
 <p float="center">
-  <img src="Output-02- knowledge-brief.png" width="380" alt="Knowledge brief">
+  <img src="output-02-knowledge-brief.png" width="380" alt="Knowledge brief">
 </p>
 
 
 ### Procedure Ouput
 <p float="center">
-  <img src="Output-03-procedure.png" width="380" alt="Procedure">
+  <img src="output-03-procedure.png" width="380" alt="Procedure">
 </p>
 
 Outputs above are structured evidence pulled directly from the graph — not generated prose, and not shortened for this README.
