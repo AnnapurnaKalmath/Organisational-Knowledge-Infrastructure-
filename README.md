@@ -86,7 +86,19 @@ Built and validated on a synthetic-but-realistic corpus for **Meridian**, a fict
   <img src="Output-04- contradiction.png" width="380" alt="Contradiction">
 </p>
 
-Both outputs above are structured evidence pulled directly from the graph — not generated prose, and not shortened for this README.
+Other Outputs:
+### Knowledge Brief Output
+<p float="center">
+  <img src="Output-02- knowledge-brief.png" width="380" alt="Knowledge brief">
+</p>
+
+
+### Procedure Ouput
+<p float="center">
+  <img src="Output-03-procedure.png" width="380" alt="Procedure">
+</p>
+
+Outputs above are structured evidence pulled directly from the graph — not generated prose, and not shortened for this README.
 
 ## Why now
 
